@@ -46,21 +46,7 @@ git clone https://github.com/your-username/product-card-ui.git
 
 ## 🌐 Live Demo
 
-> GitHub Pages yoki Netlify demo link qo‘shish mumkin
-
----
-
-## 🏷️ About Project / Loyiha haqida
-
-Ushbu loyiha **TechWebby** tomonidan tayyorlangan o‘rganish va amaliyot loyihalaridan biri.
-
-**TechWebby** — yoshlar uchun zamonaviy IT bilimlarini o‘rganish, real loyihalar orqali tajriba oshirish platformasi 🚀
-
----
-
-## 📄 License
-
-This project is open-source va learning purposes uchun bepul foydalanish mumkin.
+> https://ecommerce-product-card-ten.vercel.app/
 
 ---
 
