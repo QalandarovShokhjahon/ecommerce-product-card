@@ -40,4 +40,28 @@ product-card-ui/
 git clone https://github.com/your-username/product-card-ui.git
 ```
 
-2. `in
+2. `index.html` faylini brauzerda oching
+
+---
+
+## 🌐 Live Demo
+
+> GitHub Pages yoki Netlify demo link qo‘shish mumkin
+
+---
+
+## 🏷️ About Project / Loyiha haqida
+
+Ushbu loyiha **TechWebby** tomonidan tayyorlangan o‘rganish va amaliyot loyihalaridan biri.
+
+**TechWebby** — yoshlar uchun zamonaviy IT bilimlarini o‘rganish, real loyihalar orqali tajriba oshirish platformasi 🚀
+
+---
+
+## 📄 License
+
+This project is open-source va learning purposes uchun bepul foydalanish mumkin.
+
+---
+
+⭐ Agar loyiha yoqqan bo‘lsa, repository’ga **star** bosishni unutmang!
